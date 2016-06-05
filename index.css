@@ -1,12 +1,12 @@
-
-h2{
-	color: ghostwhite;
+#contractTray{
+	background-color: ghostwhite;
+	padding : 8px;
+	box-shadow: 3px 3px 2px grey;
 }
-a{
-	color: darkkhaki;
+#contactTray{
+	background-color: ghostwhite;
+	padding : 8px;
+	box-shadow: 3px 3px 2px grey;
 }
-img{
-	max-width:636px;
-	max-height:495px;
-}
+		
 		
